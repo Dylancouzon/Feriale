@@ -63,7 +63,7 @@
                 <tr id='news1' style=''>
                     <td class='middle_middle'>
                       <h2>Welcome to Feriale</h2>
-                      <strong>I created this website using HTML, CSS, Javascript, PHP, and MySql in 2010 and maintained it for over 2 years</strong><br ><br>
+                      <strong>I created this website for a videogame server using HTML, CSS, Javascript, PHP, and MySql in 2010 and maintained it for over 2 years</strong><br ><br>
                       <strong>This is for showcase only and most functionalities are deactivated</strong>
                     </td>
                 </tr>
