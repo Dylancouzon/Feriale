@@ -1,0 +1,284 @@
+html{
+	background-image: url('images/theme/defaut/fond/fond_top2.JPG');
+	background-color: #9f8266;
+	background-position:center;
+}
+
+body{
+	background-image: url('images/theme/defaut/fond/fond_top.JPG');
+	background-position:center top;
+	margin-top: -20px;
+	margin-left: 0px;
+	margin-right:0px;
+	background-repeat: no-repeat;
+	font-family: verdana;
+}
+
+a{
+border: none;
+color:black;
+text-decoration:none;	
+}
+img{
+border: none;
+}
+tr{
+	padding: 0px;
+	margin: 0px;
+	border-collapse: collapse;
+}
+td{
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+	border-collapse: collapse;
+}
+table{
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+	border-collapse: collapse;	
+}
+#connexion{
+	background-image: url('images/theme/defaut/connexion/fond_connexion.PNG');
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 25px;
+	margin:0px;
+	padding:0px;
+	position: absolute;
+	left: 0px;
+	top:0px;
+	padding-top: 3px;
+}
+
+#connexion_message{
+	float: left;
+	position: relative;
+	left: 50px;
+}
+#connexion_nom{
+	background-image: url('images/theme/defaut/connexion/input.JPG');
+	border: none;
+	width: 134px;
+	height: 21px;
+	float: left;
+	position: relative;
+	margin-left:1px;
+	padding-left:1px;
+	left: 60px;
+}
+
+#connexion_password{
+	background-image: url('images/theme/defaut/connexion/input.JPG');
+	border: none;
+	width: 134px;
+	height: 21px;
+	float: left;
+	position: relative;
+	margin-left:1px;
+	padding-left:1px;
+	left: 80px;
+}
+	
+#connexion_validation{
+	border: none;
+	height: 18px;
+	float: left;
+	position: relative;
+	left: 110px;	
+}
+
+#logo_feriale{
+margin-left: 720px;
+margin-top: 20px;
+}
+
+#corpus{
+	margin: auto;
+	width: 1100px;
+	height: 800px;
+}
+
+#menu_horizontal{
+}
+#menu_horizontal ul {
+ padding:0;
+ margin:auto;
+ margin-left:5px;
+ list-style-type:none;
+ }
+#menu_horizontal li {
+ float:left; /*pour IE*/
+ }
+.menu_horizontal_1{
+	background-image: url('images/theme/defaut/menuH/menu_horizontal_1.PNG');
+	width: 271px;
+	height: 120px;
+}
+.menu_horizontal_2{
+	background-image: url('images/theme/defaut/menuH/menu_horizontal_2.PNG');
+	width: 270px;
+	height: 120px;
+}
+.menu_horizontal_3{
+	background-image: url('images/theme/defaut/menuH/menu_horizontal_3.PNG');
+	width: 275px;
+	height: 120px;
+}
+.menu_horizontal_4{
+	background-image: url('images/theme/defaut/menuH/menu_horizontal_4.PNG');
+	width: 276px;
+	height: 120px;
+}
+
+#middle{
+float: left;
+	background-image: url('images/theme/defaut/fond/fond_middle.GIF');
+	background-image: center top;
+	width: 100%;
+}
+
+#menu_gauche{
+margin-left:5px;
+width: 245px;
+float: left;
+}
+
+
+#centre{
+margin-left: 3px;
+float:inherit;
+}
+
+.middle_top{
+background-image: url('images/theme/defaut/middle/middle_top.PNG');
+background-repeat: no-repeat;
+width: 590px;
+height: 54px;
+margin-left:5px;
+padding-top:3px;
+margin-bottom:0px;
+color: #ffffff;
+}
+.middle_middle{
+background-image: url('images/theme/defaut/middle/middle_center.JPG');
+background-position:center;
+background-repeat: repeat-y;
+margin-left:5px;
+margin-top:-5px;
+padding: 30px;
+font-size: 14px;
+}
+.middle_middle{
+
+}
+
+#menu_droite{
+margin-top:0px;
+margin-right: 10px;
+width: 235px;
+float: right;
+}
+.statut_top{
+	background-image: url('images/theme/defaut/fond/statut_top.JPG');
+	background-repeat: no-repeat;
+	width: 240px;
+	height: 186px;
+	vertical-align: bottom;
+	padding-bottom:0px;
+	text-align:center; 
+}
+.statut_middle{
+	background-image: url('images/theme/defaut/fond/statut_middle.JPG');
+	width: 242px;
+	padding-right: 10px;
+	vertical-align: top;
+	text-align: left;
+}
+#serveur{
+	background-image: url('images/theme/defaut/royaume_statut.PNG');
+	margin-left:10px;
+	width: 216px;
+	height: 33px;
+}
+.statut_serveur{
+position: relative;
+}
+.type_royaume
+{
+	position: relative;
+	top: 3px;	
+	left: 12px;
+}
+.nom_royaume{
+margin-left: 10px;
+font-size: 12px;
+}
+.login_royaume{
+position: relative;
+top: 32px;
+left: 162px;
+font-size: 25px;
+color: white;
+}
+.logo_faction{
+width: 15px;
+height: 15px;
+}
+.statut_footer{
+	background-image: url('images/theme/defaut/fond/statut_footer.JPG');
+	width: 240px;
+	height: 67px;
+	vertical-align: top;
+}
+#inscription{
+background-image: url('images/theme/defaut/inscription.PNG');
+width: 250px;
+height: 362px;
+background-position: bottom right;
+}
+#footer{
+
+}
+
+.class1{
+color: #FF6666;
+}
+
+.class1{
+color:#993300;
+}
+
+.class2{
+color: #FF6666;
+}
+
+.class3{
+color:#33CC00;
+}
+
+.class4{
+color: #FFFF00
+}
+
+.class5{
+color: #FFFFFF;
+}
+
+.class6{
+color:#CC0000;
+}
+
+.class7{
+color:#000099
+}
+
+.class8{
+color:#3399FF
+}
+
+.class9{
+color:#660033
+}
