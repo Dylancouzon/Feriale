@@ -29,8 +29,8 @@
 
 
 <!-- News 1 -->
-                <tr>
-                    <td class='middle_top'>
+                <tr >
+                    <td class='middle_top' >
                         <div style='float: left; margin-top: -5px; margin-left:30px;'>
                             <img src='images/theme/defaut/logo/1.PNG' />
                         </div>
