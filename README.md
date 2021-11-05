@@ -22,7 +22,7 @@ Demo only
 ## Summary 
 Web app designed and coded by myself in 2010 and maintained until 2012.
 
-It was a platform for an online French game server, it allowed users to create an account, join the game, communicate with each other, and buy items for their online characters.
+It was a platform for an online French game server where users were allowed to create an account, join the game, participate in events, communicate with each other, trade, and buy items for their online characters.
 
 
 
